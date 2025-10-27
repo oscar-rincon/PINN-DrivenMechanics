@@ -6,3 +6,5 @@ dependencies:
   - python==3.12.3
   - numpy==1.26.4
   - matplotlib==3.8.4
+  - scipy==1.16.2
+  - pydoe==0.3.8
